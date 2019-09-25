@@ -1,0 +1,235 @@
+{
+  "length": [
+    {
+      "name": "meter",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "millimeter",
+      "conversion": 1000.0
+    },
+    {
+      "name": "centimeter",
+      "conversion": 100.0
+    },
+    {
+      "name": "kilometer",
+      "conversion": 0.001
+    },
+    {
+      "name": "inch",
+      "conversion": 39.3701
+    },
+    {
+      "name": "foot",
+      "conversion": 3.28084
+    },
+    {
+      "name": "yard",
+      "conversion": 1.09361
+    },
+    {
+      "name": "mile",
+      "conversion": 0.000621371
+    }
+  ],
+  "area": [
+    {
+      "name": "meter_squared",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "kilometer_squared",
+      "conversion": 0.000001
+    },
+    {
+      "name": "square_inch",
+      "conversion": 1550.0
+    },
+    {
+      "name": "square_foot",
+      "conversion": 10.7639
+    },
+    {
+      "name": "square_yard",
+      "conversion": 1.19599
+    },
+    {
+      "name": "acre",
+      "conversion": 0.000247105
+    },
+    {
+      "name": "hectare",
+      "conversion": 0.0001
+    }
+  ],
+  "volume": [
+    {
+      "name": "cubic_meter",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "US_legal_cup",
+      "conversion": 4166.67
+    },
+    {
+      "name": "US_fluid_ounce",
+      "conversion": 33814.0
+    },
+    {
+      "name": "US_tablespoon",
+      "conversion": 67628.0
+    },
+    {
+      "name": "US_teaspoon",
+      "conversion": 202884.0
+    },
+    {
+      "name": "imperial_cup",
+      "conversion": 3519.51
+    },
+    {
+      "name": "imperial_fluid_ounce",
+      "conversion": 35195.1
+    },
+    {
+      "name": "imperial_tablespoon",
+      "conversion": 56312.13673
+    },
+    {
+      "name": "imperial_teaspoon",
+      "conversion": 168936.41019
+    }
+  ],
+  "mass": [
+    {
+      "name": "kilogram",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "gram",
+      "conversion": 1000.0
+    },
+    {
+      "name": "ounce",
+      "conversion": 35.274
+    },
+    {
+      "name": "pound",
+      "conversion": 2.20462
+    },
+    {
+      "name": "stone",
+      "conversion": 0.157473
+    },
+    {
+      "name": "US_ton",
+      "conversion": 0.00110231
+    },
+    {
+      "name": "metric_ton",
+      "conversion": 0.001
+    }
+  ],
+  "time": [
+    {
+      "name": "second",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "millisecond",
+      "conversion": 1000.0
+    },
+    {
+      "name": "minute",
+      "conversion": 0.0166666666666667
+    },
+    {
+      "name": "hour",
+      "conversion": 0.0002777777777778
+    },
+    {
+      "name": "day",
+      "conversion": 0.00001157407407
+    },
+    {
+      "name": "week",
+      "conversion": 0.000001653439153
+    },
+    {
+      "name": "fortnight",
+      "conversion": 0.000000826719576
+    }
+  ],
+  "digital_storage": [
+    {
+      "name": "megabyte",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "megabit",
+      "conversion": 8.0
+    },
+    {
+      "name": "mebibyte",
+      "conversion": 0.953674
+    },
+    {
+      "name": "byte",
+      "conversion": 1000000.0
+    },
+    {
+      "name": "kilobyte",
+      "conversion": 1000.0
+    },
+    {
+      "name": "gigabyte",
+      "conversion": 0.001
+    },
+    {
+      "name": "terabyte",
+      "conversion": 0.000001
+    },
+    {
+      "name": "petabyte",
+      "conversion": 0.000000001
+    }
+  ],
+  "energy": [
+    {
+      "name": "joule",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "kilojoule",
+      "conversion": 0.001
+    },
+    {
+      "name": "gram_calorie",
+      "conversion": 0.239006
+    },
+    {
+      "name": "kilocalorie",
+      "conversion": 0.000239006
+    },
+    {
+      "name": "watt_hour",
+      "conversion": 0.000277778
+    },
+    {
+      "name": "british_thermal_unit",
+      "conversion": 0.000947817
+    },
+    {
+      "name": "US_therm",
+      "conversion": 0.0000000094804
+    }
+  ]
+}
