@@ -5,4 +5,5 @@
 *.h linguist-detectable=false
 *.swift linguist-detectable=false
 *.m linguist-detectable=false
-
+*.kt linguist-detectable=false
+*.sh linguist-detectable=false
